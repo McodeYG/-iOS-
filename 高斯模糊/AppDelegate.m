@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
 //  高斯模糊
-//
-//  Created by 马永刚 on 2016/12/31.
+//  https://github.com/McodeYG/iOSGaussianBlur
+//  Created by 【code_小马】 on 2016/12/31.
 //  Copyright © 2016年 【code_小马】. All rights reserved.
 //
 

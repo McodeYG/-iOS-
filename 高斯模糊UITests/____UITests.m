@@ -2,7 +2,7 @@
 //  ____UITests.m
 //  高斯模糊UITests
 //
-//  Created by 马永刚 on 2016/12/31.
+//  Created by 【code_小马】 on 2016/12/31.
 //  Copyright © 2016年 【code_小马】. All rights reserved.
 //
 
